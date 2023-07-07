@@ -3,12 +3,8 @@
 - 🌱 Estudando: front-end
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/Digoaranha">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Digoaranha&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digoaranha&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+![RC GitHub stats](https://github-readme-stats.vercel.app/api?username=Digoaranha&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digoaranha&theme=dark&hide_border=false&&layout=compact)
 
 <!-- LINGUAGENS DE PROGRAMAÇÃO (ATT) ICONs: https://devicon.dev/
 <div style="display: inline_block"><br>
