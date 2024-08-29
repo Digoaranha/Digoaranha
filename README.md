@@ -1,7 +1,8 @@
 ##
 ### Opa! Sou o RC👋
 
-- 🌱 Estudando: front-end
+- 🌱 Estudando: front/back-end
+- 📷 Estudando: Photoshop/designe
 - 😄 Pronouns: ele/dele
 
 <!--![RC GitHub stats](https://github-readme-stats.vercel.app/api?username=Digoaranha&show_icons=true&theme=dark)
